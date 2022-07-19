@@ -1,0 +1,13 @@
+{
+  "domain": "manual_device_tracker",
+  "name": "Manual device tracker integration",
+  "version": "0.0.1",
+  "documentation": "https://github.com/regevbr/HAManualDeviceTracker/",
+  "codeowners": [
+    "@regevbr"
+  ],
+  "issue_tracker": "https://github.com/regevbr/HAManualDeviceTracker/issues",
+  "requirements": [],
+  "config_flow": false,
+  "iot_class": "local_push"
+}
